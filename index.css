@@ -1,0 +1,59 @@
+.my_hero{
+  background-image: url("images/hero.jpg");
+}
+
+.fa-chevron-down{
+  font-size: 3rem;
+}
+
+.Info{
+  background-color: #c4c4c4;
+}
+
+.my-button{
+  background-color: maroon;
+}
+
+.my-button:hover{
+  color: black !important;
+}
+
+hr{
+  size: 3px;
+  border: 2px solid grey;
+  opacity: 1;
+  width: 90%;
+  transform: translate(50px, -30px);
+  /* height: 10px; */
+}
+
+
+div.shirt{
+
+  border: 3px solid black;
+  background-image: url("images/tshirt.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-size: 100px, 100px; */
+  height: 50vh;
+  background-color: #c4c4c4;
+}
+
+.pant{
+  border: 3px solid black;
+  background-image: url("images/pants.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-size: 100px, 100px; */
+  height: 50vh;
+  background-color: #c4c4c4;
+}
+.bag{
+  border: 3px solid black;
+  background-image: url("images/backpack.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-size: 100px, 100px; */
+  height: 50vh;
+  background-color: #c4c4c4;
+}
